@@ -71,18 +71,11 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari7206&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari7206&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari7206&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="..." height="150" />
+  <img src="..." height="150" />
+  <img src="..." height="150" />
+</div>
 
 ---
 
