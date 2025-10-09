@@ -1,10 +1,8 @@
-<!-- PROFILE HEADER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile/banner-dark.png" alt="banner" width="80%" />
-  <h1>Hari Thapa</h1>
-  <p><em>Crafting scalable web experiences from India 🇮🇳</em></p>
+<h1 align="center">Hari Thapa</h1>
+<p align="center"><em>Crafting scalable web experiences from India 🇮🇳</em></p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hari7206&label=Profile%20views&color=000000&style=plastic" alt="Profile views" />
-</div>
+</p>
 
 ---
 
@@ -25,7 +23,7 @@
 
 ## 🚀 Developer Summary
 
-> A versatile Full Stack Developer passionate about building robust, data-driven web solutions. Skilled in designing RESTful APIs, mastering modern JavaScript frameworks, and optimizing complex databases. Continuously learning to push ideas from backend logic to the user interface.
+> Versatile Full Stack Developer passionate about building robust, data-driven web solutions. Skilled in designing RESTful APIs, mastering modern JavaScript frameworks, and optimizing complex databases. Continuously learning to push ideas from backend logic to the user interface.
 
 ---
 
@@ -58,16 +56,6 @@
 
 ---
 
-## 📦 Featured Projects
-
-| Project            | Stack/Tech         | Demo/Repo                             |
-|--------------------|--------------------|---------------------------------------|
-| Data Security App  | Node, MongoDB, React | [Repo Link](https://github.com/hari7206/data-security-app) |
-| Portfolio Website  | React, Tailwind    | [Live Site](https://hari7206.github.io) |
-| Blockchain Proof   | Solidity, Node.js  | [Repo Link](https://github.com/hari7206/blockchain-proof) |
-
----
-
 <!-- Optional stats section for recruiters -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari7206&show_icons=true&theme=dark" height="140" />
@@ -76,7 +64,6 @@
 
 ---
 
-<!-- Footer -->
 <p align="center"><sub>
   Built for teamwork, designed for reliability.<br>
   <strong>Let’s build something amazing together!</strong>
