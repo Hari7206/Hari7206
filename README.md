@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Quick Skills Scan
+##  Quick Skills Scan
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript" />
@@ -21,13 +21,13 @@
 
 ---
 
-## 🚀 Developer Summary
+##  Developer Summary
 
 > Versatile Full Stack Developer passionate about building robust, data-driven web solutions. Skilled in designing RESTful APIs, mastering modern JavaScript frameworks, and optimizing complex databases. Continuously learning to push ideas from backend logic to the user interface.
 
 ---
 
-## 🎯 Career Highlights
+##  Career Highlights
 
 - Developed high-performance MERN stack apps for startup teams.
 - Practicing DSA with Java for optimized algorithms.
@@ -37,7 +37,7 @@
 
 ---
 
-## 📢 Let’s Connect!
+##  Let’s Connect!
 
 <div align="center">
   <a href="mailto:HARI_249060@saitm.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🌱 Current Goals
+##  Current Goals
 
 - Explore backend scaling with Node.js and cloud containers.
 - Build ML models for real business needs.
