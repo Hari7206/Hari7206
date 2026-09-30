@@ -49,12 +49,15 @@ Full Stack Developer who enjoys building **robust, data-driven web applications*
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hari7206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari7206&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [Project One](https://github.com/hari7206/your-repo-name) | One line about what it does | MERN |
+| [Project Two](https://github.com/hari7206/your-repo-name) | One line about what it does | Java |
+| [Project Three](https://github.com/hari7206/your-repo-name) | One line about what it does | Python, scikit-learn |
+
+More on my [GitHub profile](https://github.com/hari7206?tab=repositories).
 
 ---
 
