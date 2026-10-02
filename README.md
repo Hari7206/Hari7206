@@ -53,9 +53,9 @@ Full Stack Developer who enjoys building **robust, data-driven web applications*
 
 | Project | Description | Stack |
 |---|---|---|
-| [Project One](https://github.com/hari7206/your-repo-name) | One line about what it does | MERN |
-| [Project Two](https://github.com/hari7206/your-repo-name) | One line about what it does | Java |
-| [Project Three](https://github.com/hari7206/your-repo-name) | One line about what it does | Python, scikit-learn |
+| [MoodFlow-AI](https://github.com/Hari7206/MoodFlow-AI.git) | Emotion-based music player using webcam face detection | MERN, MediaPipe |
+| [CoWatch](https://github.com/Hari7206/CoWatch.git) | Real-time YouTube watch party with host-controlled sync | MERN, Socket.IO, Google Auth |
+| [MealStack](https://github.com/Hari7206/MealStack.git) | Create, customize, and organize recipes in one place | React, CSS |
 
 More on my [GitHub profile](https://github.com/hari7206?tab=repositories).
 
